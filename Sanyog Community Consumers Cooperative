@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sanyog Community Consumers Cooperative</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #1b7f3a;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #145c29;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      padding: 10px 0;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #1b7f3a;
+    }
+    footer {
+      background-color: #1b7f3a;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+    }
+    .banner {
+      background: url('https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1200&q=80') center/cover no-repeat;
+      color: #fff;
+      text-align: center;
+      padding: 100px 20px;
+    }
+    .banner h1 {
+      font-size: 2.5em;
+      margin: 0;
+    }
+    .banner p {
+      font-size: 1.2em;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Sanyog Community Consumers Cooperative</h1>
+    <p><em>Serving Together, Growing Together.</em></p>
+  </header>
+
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About Us</a>
+    <a href="#services">Services</a>
+    <a href="#membership">Membership</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <div class="banner" id="home">
+    <h1>Welcome to Sanyog Cooperative</h1>
+    <p>Empowering communities through cooperation and growth.</p>
+  </div>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Sanyog Community Consumers Cooperative is committed to improving the lives of our members by providing affordable goods, services, and opportunities for growth. We believe in unity, integrity, and service for the common good.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Affordable consumer goods</li>
+      <li>Financial assistance and loans</li>
+      <li>Community programs and events</li>
+    </ul>
+  </section>
+
+  <section id="membership">
+    <h2>Membership</h2>
+    <p>Join our cooperative and enjoy exclusive benefits! Membership is open to all who believe in our vision.</p>
+    <ul>
+      <li>Access to cooperative products and services</li>
+      <li>Participation in decision-making</li>
+      <li>Share in the growth and success</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>2nd Floor, Nenita Building, Corner Saligumba and Simeon Aguilar Street, Barangay Poblacion Ilawod, Passi City, Iloilo</p>
+    <p>Email: <a href="mailto:info@sanyogcoop.com">info@sanyogcoop.com</a></p>
+    <p>Phone: 0948-161-7237</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Sanyog Community Consumers Cooperative. All rights reserved.
+  </footer>
+
+</body>
+</html>
